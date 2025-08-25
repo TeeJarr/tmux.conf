@@ -1,0 +1,294 @@
+[2025-08-24 03:20:45.562]: Info: Sunshine version: v2025.628.4510
+[2025-08-24 03:20:45.563]: Info: Package Publisher: LizardByte
+[2025-08-24 03:20:45.563]: Info: Publisher Website: https://app.lizardbyte.dev
+[2025-08-24 03:20:45.563]: Info: Get support: https://app.lizardbyte.dev/support
+[2025-08-24 03:20:45.563]: Info: config: 'controller' = disabled
+[2025-08-24 03:20:45.563]: Info: config: 'output_name' = 1
+[2025-08-24 03:20:45.563]: Info: config: 'stream_audio' = true
+[2025-08-24 03:20:45.587]: Info: System tray created
+[2025-08-24 03:20:45.603]: Error: Failed to create session: 
+[2025-08-24 03:20:45.603]: Info: Found display [wayland-1]
+[2025-08-24 03:20:45.603]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:20:45.603]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:20:45.603]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:20:45.603]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:20:45.603]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:20:45.603]: Info: Resolution: 3840x2160
+[2025-08-24 03:20:45.603]: Info: Resolution: 2560x1440
+[2025-08-24 03:20:45.603]: Info: Name: HDMI-A-5
+[2025-08-24 03:20:45.603]: Info: Found monitor: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:20:45.603]: Info: Offset: -3840x0
+[2025-08-24 03:20:45.603]: Info: Logical size: 3840x2160
+[2025-08-24 03:20:45.603]: Info: Name: DP-3
+[2025-08-24 03:20:45.603]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:20:45.603]: Info: Offset: 0x0
+[2025-08-24 03:20:45.603]: Info: Logical size: 2560x1440
+[2025-08-24 03:20:45.603]: Info: -------- Start of Wayland monitor list --------
+[2025-08-24 03:20:45.603]: Info: Monitor 0 is HDMI-A-5: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:20:45.603]: Info: Monitor 1 is DP-3: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:20:45.603]: Info: --------- End of Wayland monitor list ---------
+[2025-08-24 03:20:45.622]: Warning: Gamepad ds5 is disabled due to Permission denied
+[2025-08-24 03:20:45.622]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-24 03:20:45.622]: Info: Trying encoder [nvenc]
+[2025-08-24 03:20:45.622]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:20:45.622]: Info: Found display [wayland-1]
+[2025-08-24 03:20:45.622]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:20:45.622]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:20:45.622]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:20:45.622]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:20:45.622]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:20:45.622]: Info: Resolution: 2560x1440
+[2025-08-24 03:20:45.622]: Info: Name: DP-3
+[2025-08-24 03:20:45.622]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:20:45.622]: Info: Offset: 0x0
+[2025-08-24 03:20:45.622]: Info: Logical size: 2560x1440
+[2025-08-24 03:20:45.622]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:20:45.622]: Info: Creating encoder [h264_nvenc]
+[2025-08-24 03:20:45.622]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:20:45.622]: Info: Color depth: 8-bit
+[2025-08-24 03:20:45.622]: Info: Color range: JPEG
+[2025-08-24 03:20:45.743]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:20:46.007]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:20:46.007]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:20:46.007]: Info: Color depth: 8-bit
+[2025-08-24 03:20:46.007]: Info: Color range: JPEG
+[2025-08-24 03:20:46.008]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:20:46.276]: Info: Creating encoder [av1_nvenc]
+[2025-08-24 03:20:46.276]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:20:46.276]: Info: Color depth: 8-bit
+[2025-08-24 03:20:46.276]: Info: Color range: JPEG
+[2025-08-24 03:20:46.280]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:20:46.287]: Warning: [av1_nvenc @ 0x6366fdb84240] Codec not supported
+[2025-08-24 03:20:46.287]: Error: [av1_nvenc @ 0x6366fdb84240] Provided device doesn't support required NVENC features
+[2025-08-24 03:20:46.539]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-24 03:20:46.540]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:20:46.540]: Info: Found display [wayland-1]
+[2025-08-24 03:20:46.540]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:20:46.540]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:20:46.540]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:20:46.540]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:20:46.540]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:20:46.541]: Info: Resolution: 2560x1440
+[2025-08-24 03:20:46.541]: Info: Name: DP-3
+[2025-08-24 03:20:46.541]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:20:46.541]: Info: Offset: 0x0
+[2025-08-24 03:20:46.541]: Info: Logical size: 2560x1440
+[2025-08-24 03:20:46.541]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:20:46.541]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:20:46.541]: Info: Color coding: SDR (Rec. 709)
+[2025-08-24 03:20:46.541]: Info: Color depth: 10-bit
+[2025-08-24 03:20:46.541]: Info: Color range: JPEG
+[2025-08-24 03:20:46.546]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:20:46.817]: Info: 
+[2025-08-24 03:20:46.818]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-24 03:20:46.818]: Info: 
+[2025-08-24 03:20:46.818]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-24 03:20:46.818]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-24 03:20:46.822]: Error: Failed to create client: Daemon not running
+[2025-08-24 03:20:46.824]: Info: Configuration UI available at [https://localhost:47990]
+[2025-08-24 03:21:10.362]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-24 03:21:10.363]: Info: Trying encoder [nvenc]
+[2025-08-24 03:21:10.363]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:21:10.363]: Info: Found display [wayland-1]
+[2025-08-24 03:21:10.363]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:21:10.363]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:21:10.363]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:21:10.363]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:21:10.363]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:21:10.363]: Info: Resolution: 2560x1440
+[2025-08-24 03:21:10.363]: Info: Name: DP-3
+[2025-08-24 03:21:10.363]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:21:10.363]: Info: Offset: 0x0
+[2025-08-24 03:21:10.363]: Info: Logical size: 2560x1440
+[2025-08-24 03:21:10.363]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:21:10.363]: Info: Creating encoder [h264_nvenc]
+[2025-08-24 03:21:10.363]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:21:10.363]: Info: Color depth: 8-bit
+[2025-08-24 03:21:10.363]: Info: Color range: JPEG
+[2025-08-24 03:21:10.397]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:21:10.669]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:21:10.669]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:21:10.669]: Info: Color depth: 8-bit
+[2025-08-24 03:21:10.669]: Info: Color range: JPEG
+[2025-08-24 03:21:10.673]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:21:10.941]: Info: Creating encoder [av1_nvenc]
+[2025-08-24 03:21:10.941]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:21:10.941]: Info: Color depth: 8-bit
+[2025-08-24 03:21:10.941]: Info: Color range: JPEG
+[2025-08-24 03:21:10.946]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:21:10.954]: Warning: [av1_nvenc @ 0x72c7ec3d1140] Codec not supported
+[2025-08-24 03:21:10.954]: Error: [av1_nvenc @ 0x72c7ec3d1140] Provided device doesn't support required NVENC features
+[2025-08-24 03:21:11.207]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-24 03:21:11.208]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:21:11.208]: Info: Found display [wayland-1]
+[2025-08-24 03:21:11.209]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:21:11.209]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:21:11.209]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:21:11.209]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:21:11.210]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:21:11.210]: Info: Resolution: 2560x1440
+[2025-08-24 03:21:11.210]: Info: Name: DP-3
+[2025-08-24 03:21:11.210]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:21:11.210]: Info: Offset: 0x0
+[2025-08-24 03:21:11.210]: Info: Logical size: 2560x1440
+[2025-08-24 03:21:11.210]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:21:11.210]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:21:11.210]: Info: Color coding: SDR (Rec. 709)
+[2025-08-24 03:21:11.210]: Info: Color depth: 10-bit
+[2025-08-24 03:21:11.210]: Info: Color range: JPEG
+[2025-08-24 03:21:11.215]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:21:11.484]: Info: 
+[2025-08-24 03:21:11.484]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-24 03:21:11.484]: Info: 
+[2025-08-24 03:21:11.484]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-24 03:21:11.484]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-24 03:21:11.484]: Info: Executing [Desktop]
+[2025-08-24 03:21:11.564]: Info: New streaming session started [active sessions: 1]
+[2025-08-24 03:21:11.606]: Info: CLIENT CONNECTED
+[2025-08-24 03:21:11.606]: Info: Found display [wayland-1]
+[2025-08-24 03:21:11.606]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:21:11.606]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:21:11.606]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:21:11.606]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:21:11.606]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:21:11.606]: Info: Resolution: 3840x2160
+[2025-08-24 03:21:11.606]: Info: Resolution: 2560x1440
+[2025-08-24 03:21:11.606]: Info: Name: HDMI-A-5
+[2025-08-24 03:21:11.606]: Info: Found monitor: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:21:11.606]: Info: Offset: -3840x0
+[2025-08-24 03:21:11.606]: Info: Logical size: 3840x2160
+[2025-08-24 03:21:11.606]: Info: Name: DP-3
+[2025-08-24 03:21:11.606]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:21:11.606]: Info: Offset: 0x0
+[2025-08-24 03:21:11.606]: Info: Logical size: 2560x1440
+[2025-08-24 03:21:11.606]: Info: -------- Start of Wayland monitor list --------
+[2025-08-24 03:21:11.606]: Info: Monitor 0 is HDMI-A-5: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:21:11.606]: Info: Monitor 1 is DP-3: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:21:11.606]: Info: --------- End of Wayland monitor list ---------
+[2025-08-24 03:21:11.606]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:21:11.606]: Info: Found display [wayland-1]
+[2025-08-24 03:21:11.607]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:21:11.607]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:21:11.607]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:21:11.607]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:21:11.607]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:21:11.607]: Info: Resolution: 2560x1440
+[2025-08-24 03:21:11.607]: Info: Name: DP-3
+[2025-08-24 03:21:11.607]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:21:11.607]: Info: Offset: 0x0
+[2025-08-24 03:21:11.607]: Info: Logical size: 2560x1440
+[2025-08-24 03:21:11.607]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:21:11.607]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:21:11.607]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:21:11.607]: Info: Color depth: 8-bit
+[2025-08-24 03:21:11.607]: Info: Color range: MPEG
+[2025-08-24 03:21:11.637]: Info: Streaming bitrate is 7308000
+[2025-08-24 03:21:11.656]: Info: Minimum frame time set to 16.6667ms, based on client-requested target framerate 60.
+[2025-08-24 03:21:12.083]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2025-08-24 03:21:12.083]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2025-08-24 03:21:12.107]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-08-24 03:21:58.489]: Info: CLIENT DISCONNECTED
+[2025-08-24 03:21:58.492]: Info: Setting default sink to: [alsa_output.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.analog-stereo]
+[2025-08-24 03:23:47.531]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-24 03:23:47.531]: Info: Trying encoder [nvenc]
+[2025-08-24 03:23:47.531]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:23:47.531]: Info: Found display [wayland-1]
+[2025-08-24 03:23:47.531]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:23:47.531]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:23:47.531]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:23:47.531]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:23:47.531]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:23:47.532]: Info: Resolution: 2560x1440
+[2025-08-24 03:23:47.532]: Info: Name: DP-3
+[2025-08-24 03:23:47.532]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:23:47.532]: Info: Offset: 0x0
+[2025-08-24 03:23:47.532]: Info: Logical size: 2560x1440
+[2025-08-24 03:23:47.532]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:23:47.532]: Info: Creating encoder [h264_nvenc]
+[2025-08-24 03:23:47.532]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:23:47.532]: Info: Color depth: 8-bit
+[2025-08-24 03:23:47.532]: Info: Color range: JPEG
+[2025-08-24 03:23:47.538]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:23:47.838]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:23:47.838]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:23:47.838]: Info: Color depth: 8-bit
+[2025-08-24 03:23:47.838]: Info: Color range: JPEG
+[2025-08-24 03:23:47.840]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:23:48.104]: Info: Creating encoder [av1_nvenc]
+[2025-08-24 03:23:48.104]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:23:48.104]: Info: Color depth: 8-bit
+[2025-08-24 03:23:48.104]: Info: Color range: JPEG
+[2025-08-24 03:23:48.106]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:23:48.113]: Warning: [av1_nvenc @ 0x72c7ec3d1140] Codec not supported
+[2025-08-24 03:23:48.113]: Error: [av1_nvenc @ 0x72c7ec3d1140] Provided device doesn't support required NVENC features
+[2025-08-24 03:23:48.364]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-24 03:23:48.366]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:23:48.366]: Info: Found display [wayland-1]
+[2025-08-24 03:23:48.366]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:23:48.366]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:23:48.366]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:23:48.366]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:23:48.366]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:23:48.367]: Info: Resolution: 2560x1440
+[2025-08-24 03:23:48.367]: Info: Name: DP-3
+[2025-08-24 03:23:48.367]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:23:48.367]: Info: Offset: 0x0
+[2025-08-24 03:23:48.367]: Info: Logical size: 2560x1440
+[2025-08-24 03:23:48.367]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:23:48.367]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:23:48.367]: Info: Color coding: SDR (Rec. 709)
+[2025-08-24 03:23:48.367]: Info: Color depth: 10-bit
+[2025-08-24 03:23:48.367]: Info: Color range: JPEG
+[2025-08-24 03:23:48.371]: Info: Streaming bitrate is 1000000
+[2025-08-24 03:23:48.639]: Info: 
+[2025-08-24 03:23:48.639]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-24 03:23:48.639]: Info: 
+[2025-08-24 03:23:48.639]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-24 03:23:48.639]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-24 03:23:48.639]: Info: Executing [Desktop]
+[2025-08-24 03:23:48.689]: Info: New streaming session started [active sessions: 1]
+[2025-08-24 03:23:48.718]: Info: CLIENT CONNECTED
+[2025-08-24 03:23:48.719]: Info: Found display [wayland-1]
+[2025-08-24 03:23:48.719]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:23:48.719]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:23:48.719]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:23:48.719]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:23:48.719]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:23:48.720]: Info: Resolution: 3840x2160
+[2025-08-24 03:23:48.720]: Info: Resolution: 2560x1440
+[2025-08-24 03:23:48.720]: Info: Name: HDMI-A-5
+[2025-08-24 03:23:48.720]: Info: Found monitor: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:23:48.720]: Info: Offset: -3840x0
+[2025-08-24 03:23:48.720]: Info: Logical size: 3840x2160
+[2025-08-24 03:23:48.720]: Info: Name: DP-3
+[2025-08-24 03:23:48.720]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:23:48.720]: Info: Offset: 0x0
+[2025-08-24 03:23:48.720]: Info: Logical size: 2560x1440
+[2025-08-24 03:23:48.720]: Info: -------- Start of Wayland monitor list --------
+[2025-08-24 03:23:48.720]: Info: Monitor 0 is HDMI-A-5: Dell Inc. DELL S2725QC 4257S84 (HDMI-A-5)
+[2025-08-24 03:23:48.720]: Info: Monitor 1 is DP-3: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:23:48.720]: Info: --------- End of Wayland monitor list ---------
+[2025-08-24 03:23:48.720]: Info: Screencasting with Wayland's protocol
+[2025-08-24 03:23:48.720]: Info: Found display [wayland-1]
+[2025-08-24 03:23:48.720]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-24 03:23:48.720]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-24 03:23:48.720]: Info: Found interface: zwp_linux_dmabuf_v1(57) version 5
+[2025-08-24 03:23:48.720]: Info: Found interface: wl_output(58) version 4
+[2025-08-24 03:23:48.720]: Info: Found interface: wl_output(59) version 4
+[2025-08-24 03:23:48.720]: Info: Resolution: 2560x1440
+[2025-08-24 03:23:48.720]: Info: Name: DP-3
+[2025-08-24 03:23:48.720]: Info: Found monitor: ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)
+[2025-08-24 03:23:48.720]: Info: Offset: 0x0
+[2025-08-24 03:23:48.720]: Info: Logical size: 2560x1440
+[2025-08-24 03:23:48.720]: Info: Selected monitor [ViewSonic Corporation VX2758-Series VVF204301245 (DP-3)] for streaming
+[2025-08-24 03:23:48.720]: Info: Creating encoder [hevc_nvenc]
+[2025-08-24 03:23:48.720]: Info: Color coding: SDR (Rec. 601)
+[2025-08-24 03:23:48.720]: Info: Color depth: 8-bit
+[2025-08-24 03:23:48.720]: Info: Color range: MPEG
+[2025-08-24 03:23:48.751]: Info: Streaming bitrate is 26588000
+[2025-08-24 03:23:48.771]: Info: Minimum frame time set to 16.6667ms, based on client-requested target framerate 60.
+[2025-08-24 03:23:49.211]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2025-08-24 03:23:49.211]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2025-08-24 03:23:49.229]: Info: Opus initialized: 48 kHz, 2 channels, 512 kbps (total), LOWDELAY
+[2025-08-24 03:30:00.690]: Info: CLIENT DISCONNECTED
+[2025-08-24 03:30:00.694]: Info: Setting default sink to: [alsa_output.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.analog-stereo]

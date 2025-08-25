@@ -1,0 +1,712 @@
+<application>
+  <component name="DailyLocalStatistics">
+    <dateToStats>
+      <entry key="2025-8-22-20">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="107" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="107" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="107" />
+                <distribution>
+                  <entry key="EMPTY" value="71" />
+                  <entry key="INVALIDATED" value="36" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="107" />
+                <distribution>
+                  <entry key="false" value="107" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="171" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="171" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="171" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="100" />
+                  <entry key="INVALIDATED" value="70" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="171" />
+                <distribution>
+                  <entry key="false" value="171" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-18">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="271" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="271" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="271" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="160" />
+                  <entry key="INVALIDATED" value="110" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="271" />
+                <distribution>
+                  <entry key="false" value="271" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="81" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="81" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="81" />
+                <distribution>
+                  <entry key="EMPTY" value="47" />
+                  <entry key="INVALIDATED" value="34" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="81" />
+                <distribution>
+                  <entry key="false" value="81" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-21">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="300" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="300" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="300" />
+                <distribution>
+                  <entry key="EMPTY" value="165" />
+                  <entry key="INVALIDATED" value="135" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="300" />
+                <distribution>
+                  <entry key="false" value="300" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-22">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1030" />
+                <distribution>
+                  <entry key="Language: JAVA" value="2" />
+                  <entry key="Language: TypeScript" value="1028" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1030" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="631" />
+                  <entry key="ESCAPE_PRESSED" value="2" />
+                  <entry key="INVALIDATED" value="396" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1030" />
+                <distribution>
+                  <entry key="false" value="1030" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-23-23">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="886" />
+                <distribution>
+                  <entry key="Language: JAVA" value="260" />
+                  <entry key="Language: TypeScript" value="626" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="886" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="2" />
+                  <entry key="EMPTY" value="564" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="306" />
+                  <entry key="SELECTED" value="10" />
+                  <entry key="TYPED" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="23" />
+                <option name="sum" value="208.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="23" />
+                <option name="sum" value="10.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="886" />
+                <distribution>
+                  <entry key="false" value="863" />
+                  <entry key="true" value="23" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-0">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="714" />
+                <distribution>
+                  <entry key="Language: JAVA" value="107" />
+                  <entry key="Language: TypeScript" value="607" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="714" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="448" />
+                  <entry key="INVALIDATED" value="257" />
+                  <entry key="SELECTED" value="8" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="133.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="12" />
+                <option name="sum" value="8.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="714" />
+                <distribution>
+                  <entry key="false" value="702" />
+                  <entry key="true" value="12" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-1">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="240" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="240" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="240" />
+                <distribution>
+                  <entry key="EMPTY" value="143" />
+                  <entry key="INVALIDATED" value="97" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="240" />
+                <distribution>
+                  <entry key="false" value="240" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-12">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="238" />
+                <distribution>
+                  <entry key="Language: CSS" value="55" />
+                  <entry key="Language: JAVA" value="3" />
+                  <entry key="Language: TypeScript" value="180" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="238" />
+                <distribution>
+                  <entry key="EMPTY" value="144" />
+                  <entry key="INVALIDATED" value="94" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="238" />
+                <distribution>
+                  <entry key="false" value="238" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-13">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="993" />
+                <distribution>
+                  <entry key="Language: Angular181Html" value="4" />
+                  <entry key="Language: CSS" value="182" />
+                  <entry key="Language: JAVA" value="199" />
+                  <entry key="Language: TypeScript" value="608" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="993" />
+                <distribution>
+                  <entry key="EMPTY" value="623" />
+                  <entry key="ERROR" value="1" />
+                  <entry key="ESCAPE_PRESSED" value="3" />
+                  <entry key="INVALIDATED" value="350" />
+                  <entry key="SELECTED" value="16" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="21" />
+                <option name="sum" value="217.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="21" />
+                <option name="sum" value="16.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="993" />
+                <distribution>
+                  <entry key="false" value="972" />
+                  <entry key="true" value="21" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-14">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="608" />
+                <distribution>
+                  <entry key="Language: Angular181Html" value="1" />
+                  <entry key="Language: CSS" value="117" />
+                  <entry key="Language: JAVA" value="12" />
+                  <entry key="Language: TypeScript" value="478" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="608" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="EMPTY" value="436" />
+                  <entry key="INVALIDATED" value="171" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="608" />
+                <distribution>
+                  <entry key="false" value="608" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-15">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="442" />
+                <distribution>
+                  <entry key="Language: JAVA" value="442" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="442" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="1" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="309" />
+                  <entry key="ESCAPE_PRESSED" value="2" />
+                  <entry key="INVALIDATED" value="114" />
+                  <entry key="SELECTED" value="15" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="26" />
+                <option name="sum" value="290.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="26" />
+                <option name="sum" value="17.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="442" />
+                <distribution>
+                  <entry key="false" value="416" />
+                  <entry key="true" value="26" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-16">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="231" />
+                <distribution>
+                  <entry key="Language: JAVA" value="231" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="231" />
+                <distribution>
+                  <entry key="EMPTY" value="179" />
+                  <entry key="INVALIDATED" value="51" />
+                  <entry key="SELECTED" value="1" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="3" />
+                <option name="sum" value="4.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="3" />
+                <option name="sum" value="1.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="231" />
+                <distribution>
+                  <entry key="false" value="228" />
+                  <entry key="true" value="3" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-17">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="279" />
+                <distribution>
+                  <entry key="Language: CSS" value="92" />
+                  <entry key="Language: JAVA" value="109" />
+                  <entry key="Language: TypeScript" value="78" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="279" />
+                <distribution>
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="163" />
+                  <entry key="INVALIDATED" value="111" />
+                  <entry key="SELECTED" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="7" />
+                <option name="sum" value="70.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="7" />
+                <option name="sum" value="4.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="279" />
+                <distribution>
+                  <entry key="false" value="272" />
+                  <entry key="true" value="7" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-19">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="398" />
+                <distribution>
+                  <entry key="Language: CSS" value="360" />
+                  <entry key="Language: JAVA" value="38" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="398" />
+                <distribution>
+                  <entry key="EMPTY" value="260" />
+                  <entry key="ESCAPE_PRESSED" value="1" />
+                  <entry key="INVALIDATED" value="135" />
+                  <entry key="SELECTED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="32.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="4" />
+                <option name="sum" value="2.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="398" />
+                <distribution>
+                  <entry key="false" value="394" />
+                  <entry key="true" value="4" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-21">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="1411" />
+                <distribution>
+                  <entry key="Language: CSS" value="53" />
+                  <entry key="Language: JAVA" value="1217" />
+                  <entry key="Language: TypeScript" value="141" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="1411" />
+                <distribution>
+                  <entry key="BACKSPACE_PRESSED" value="12" />
+                  <entry key="CARET_CHANGED" value="1" />
+                  <entry key="EMPTY" value="812" />
+                  <entry key="ESCAPE_PRESSED" value="6" />
+                  <entry key="INVALIDATED" value="534" />
+                  <entry key="SELECTED" value="44" />
+                  <entry key="TYPED" value="2" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_length">
+              <MetricValue>
+                <option name="count" value="98" />
+                <option name="sum" value="1011.0" />
+              </MetricValue>
+            </entry>
+            <entry key="total_inserted_lines">
+              <MetricValue>
+                <option name="count" value="98" />
+                <option name="sum" value="48.0" />
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="1411" />
+                <distribution>
+                  <entry key="false" value="1313" />
+                  <entry key="true" value="98" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+      <entry key="2025-8-24-22">
+        <DateState>
+          <values>
+            <entry key="file_language">
+              <MetricValue>
+                <option name="count" value="259" />
+                <distribution>
+                  <entry key="Language: TypeScript" value="259" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="finish_type">
+              <MetricValue>
+                <option name="count" value="259" />
+                <distribution>
+                  <entry key="EMPTY" value="174" />
+                  <entry key="INVALIDATED" value="85" />
+                </distribution>
+              </MetricValue>
+            </entry>
+            <entry key="was_shown">
+              <MetricValue>
+                <option name="count" value="259" />
+                <distribution>
+                  <entry key="false" value="259" />
+                </distribution>
+              </MetricValue>
+            </entry>
+          </values>
+        </DateState>
+      </entry>
+    </dateToStats>
+  </component>
+</application>

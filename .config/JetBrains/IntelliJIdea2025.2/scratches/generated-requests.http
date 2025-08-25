@@ -1,0 +1,13 @@
+###
+GET http://localhost:8080/api/events/create-events
+
+<> 2025-08-24T171620.404.json
+<> 2025-08-24T171610.404.json
+<> 2025-08-24T005703.200.json
+
+###
+GET http://localhost:8080/api/events/create-events
+
+<> 2025-08-24T171631.404.json
+<> 2025-08-24T005957.200.json
+<> 2025-08-24T005934.404.json

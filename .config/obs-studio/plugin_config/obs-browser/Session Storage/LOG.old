@@ -1,0 +1,24 @@
+2025/05/26-15:11:11.504 3ca61 Reusing MANIFEST /home/teejarr/.config/obs-studio/plugin_config/obs-browser/Session Storage/MANIFEST-000001
+2025/05/26-15:11:11.505 3ca61 Recovering log #253
+2025/05/26-15:11:11.505 3ca61 Reusing old log /home/teejarr/.config/obs-studio/plugin_config/obs-browser/Session Storage/000253.log 
+2025/05/26-16:13:35.460 3ca62 Level-0 table #257: started
+2025/05/26-16:13:35.465 3ca62 Level-0 table #257: 20393 bytes OK
+2025/05/26-16:13:35.470 3ca62 Delete type=0 #253
+2025/05/26-18:16:34.548 3ca62 Level-0 table #259: started
+2025/05/26-18:16:34.555 3ca62 Level-0 table #259: 18727 bytes OK
+2025/05/26-18:16:34.560 3ca62 Delete type=0 #256
+2025/05/26-21:06:19.926 3ca62 Level-0 table #261: started
+2025/05/26-21:06:20.035 3ca62 Level-0 table #261: 16199 bytes OK
+2025/05/26-21:06:20.040 3ca62 Delete type=0 #258
+2025/05/26-21:06:20.041 3ca62 Compacting 4@0 + 1@1 files
+2025/05/26-21:06:20.045 3ca62 Generated table #262@0: 861 keys, 42566 bytes
+2025/05/26-21:06:20.045 3ca62 Compacted 4@0 + 1@1 files => 42566 bytes
+2025/05/26-21:06:20.050 3ca62 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-21:06:20.050 3ca62 Delete type=2 #259
+2025/05/26-21:06:20.050 3ca62 Delete type=2 #254
+2025/05/26-21:06:20.050 3ca62 Delete type=2 #257
+2025/05/26-21:06:20.050 3ca62 Delete type=2 #261
+2025/05/26-21:06:20.050 3ca62 Delete type=2 #252
+2025/05/26-23:55:30.877 3ca62 Level-0 table #264: started
+2025/05/26-23:55:30.931 3ca62 Level-0 table #264: 16209 bytes OK
+2025/05/26-23:55:30.936 3ca62 Delete type=0 #260

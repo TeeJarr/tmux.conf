@@ -1,0 +1,787 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hotspotAppApi" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2h5ts6tpex91b" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.html" file-id="101149" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="904">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!block;n#for#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"home.component.html","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-21,-93,-62,3,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.css" file-id="101150" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1089">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"home.component.css","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.ts" file-id="101148" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="792">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"home.component.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/services/api/api.service.ts" file-id="161702" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"api.service.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/app.config.ts" file-id="467" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="363">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.config.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/app.ts" file-id="468" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main.ts" file-id="464" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/styles.css" file-id="465" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"styles.css","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts" file-id="472" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.routes.ts","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/app/app.html" file-id="469" managing-fs="1755915592708">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.html","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-21,-93,-62,3,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 49,
+      "lastUsed": 1756084572434
+    },
+    "CSS": {
+      "usageCount": 15,
+      "lastUsed": 1756084572431
+    },
+    "HTML": {
+      "usageCount": 19,
+      "lastUsed": 1756084572538
+    },
+    "Markdown": {
+      "usageCount": 3,
+      "lastUsed": 1755990558309
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/Pages/home/home.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/index.html",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.routes.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.html",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/Pages/home/home.component.html",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/Pages/home/home.component.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.moduile.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.module.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.config.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/app.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/services/api/api.service.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/pages/home/home.component.css",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/pages/home/home.component.ts",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/app/pages/home/home.component.html",
+    "/home/teejarr/IdeaProjects/hotspotAppApi/src/styles.css"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="15" lastUsage="1756084572431" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="19" lastUsage="1756084572538" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="3" lastUsage="1755990558309" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="49" lastUsage="1756084572434" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hotspotAppApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotspotAppApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotspotAppApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="hotspotAppApi" />
+            <item name="hotspotAppApi" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="hotspotAppApi" />
+              <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.angular" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".angular" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/.angular}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/app" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                  <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src/app}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/pages" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pages" />
+                    <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src/app/pages}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/services" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="services" />
+                    <item name="dir{file:///home/teejarr/IdeaProjects/hotspotAppApi/src/app/services}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.config.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.config.ts" />
+                    <item name="app.config.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.css" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="app.css" />
+                    <item name="app.css" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.html" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="app.html" />
+                    <item name="app.html" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.routes.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.routes.ts" />
+                    <item name="app.routes.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.spec.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/tsTest.svg" iconPlugin="JavaScript" isLeaf="true" text="app.spec.ts" />
+                    <item name="app.spec.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/app/app.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="app.ts" />
+                    <item name="app.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/index.html" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="index.html" />
+                  <item name="index.html" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="main.ts" />
+                  <item name="main.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/styles.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="styles.css" />
+                  <item name="styles.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/editorConfig.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/angular.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="angular.json" />
+                <item name="angular.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hotsport-fe.iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="hotsport-fe.iml" />
+                <item name="hotsport-fe.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.app.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.app.json" />
+                <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.spec.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.spec.json" />
+                <item name="tsconfig.spec.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.Angular CLI Server" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/bash" />
+          <option value="--rcfile" />
+          <option value="$APPLICATION_HOME_DIR$/plugins/terminal/shell-integrations/bash/bash-integration.bash" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19437139" />
+      <window_info id="Commit" order="1" weight="0.19437139" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Pull Requests" order="3" weight="0.25802207" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3738004" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3738004" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3300622" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.37366635" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.33008945" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.33008945" />
+      <unified_weights bottom="0.37366635" left="0.19437139" right="0.33008945" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Pull Requests</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Hierarchy</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2559" y="1283" key="FileChooserDialogImpl.ideScale=150" timestamp="1756013971296">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2559" y="1283" key="FileChooserDialogImpl.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756013971296" />
+    <state x="2651" y="1007" key="Github.Dialog.Accounts.Choose.ideScale=150" timestamp="1756098806216">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2651" y="1007" key="Github.Dialog.Accounts.Choose.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756098806216" />
+    <state width="1819" height="647" key="GridCell.Tab.0.bottom" timestamp="1755918223946">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.bottom.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1819" height="647" key="GridCell.Tab.0.bottom/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755918223946" />
+    <state width="1819" height="647" key="GridCell.Tab.0.center" timestamp="1755918223946">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.center.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.center.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1819" height="647" key="GridCell.Tab.0.center/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755918223946" />
+    <state width="1819" height="647" key="GridCell.Tab.0.left" timestamp="1755918223945">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.left.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.left.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1819" height="647" key="GridCell.Tab.0.left/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755918223945" />
+    <state width="1819" height="647" key="GridCell.Tab.0.right" timestamp="1755918223946">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.right.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.0.right.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1819" height="647" key="GridCell.Tab.0.right/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755918223946" />
+    <state width="1723" height="722" key="GridCell.Tab.1.bottom.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.1.bottom.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.1.center.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.1.center.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.1.left.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.1.left.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.1.right.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.1.right.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.2.bottom.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.2.bottom.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.2.center.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.2.center.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.2.left.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.2.left.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.2.right.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.2.right.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.3.bottom.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.3.bottom.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.3.center.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.3.center.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.3.left.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.3.left.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state width="1723" height="722" key="GridCell.Tab.3.right.ideScale=150" timestamp="1756089584161">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1723" height="722" key="GridCell.Tab.3.right.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756089584161" />
+    <state x="1174" y="563" key="SettingsEditor.ideScale=150" timestamp="1755990549563">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1174" y="563" key="SettingsEditor.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755990549563" />
+    <state width="746" height="669" key="SwitcherDM.ideScale=150" timestamp="1756095641324">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="746" height="669" key="SwitcherDM.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756095641324" />
+    <state x="362" y="1250" width="1200" height="754" key="Vcs.Push.Dialog.v2.ideScale=150" timestamp="1756098799246">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="362" y="1250" key="Vcs.Push.Dialog.v2.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756098799246" />
+    <state x="4081" y="656" width="1200" height="754" key="Vcs.Push.Dialog.v2.ideScale=150/0.0.3840.2160/3840.0.2560.1440@3840.0.2560.1440" timestamp="1756030367053" />
+    <state x="4089" y="324" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150" timestamp="1756031145179">
+      <screen x="3840" y="0" width="2560" height="1440" />
+    </state>
+    <state x="4089" y="324" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150/0.0.3840.2160/3840.0.2560.1440@3840.0.2560.1440" timestamp="1756031145179" />
+    <state x="2748" y="972" width="348" height="299" key="org.angular.cli.generate" timestamp="1755918215481">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2748" y="972" width="529" height="450" key="org.angular.cli.generate.ideScale=150" timestamp="1756016134494">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2748" y="972" width="529" height="450" key="org.angular.cli.generate.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756016134494" />
+    <state x="2748" y="972" width="348" height="299" key="org.angular.cli.generate/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1755918215481" />
+    <state x="2371" y="516" width="1009" height="1504" key="search.everywhere.popup.ideScale=150" timestamp="1756068237983">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2371" y="516" width="1009" height="1504" key="search.everywhere.popup.ideScale=150/0.0.3840.2160/3840.0.2560.1440@0.0.3840.2160" timestamp="1756068237983" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.module/app.module-module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/services/api/api.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/services/api/api.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!block;n#for#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

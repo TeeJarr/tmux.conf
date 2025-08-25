@@ -1,0 +1,78 @@
+5/20/2025, 2:13:33 PM MST 0: 
+
+----------------------------------------------
+5/20/2025, 2:13:33 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+5/20/2025, 2:13:33 PM MST 2: ✅ webContents.created web1 "Discord Updater"
+5/20/2025, 2:13:33 PM MST 3: ✅ window.created win1 "Discord Updater"
+5/20/2025, 2:13:33 PM MST 4: ✅ webContents.did-finish-load web1
+5/20/2025, 2:13:36 PM MST 5: ✅ webContents.created web2 ""
+5/20/2025, 2:13:36 PM MST 6: ✅ window.created win2 "Discord"
+5/20/2025, 2:13:36 PM MST 7: ✅ webContents.did-finish-load web2
+5/20/2025, 2:13:36 PM MST 8: window.close win1
+5/20/2025, 2:13:36 PM MST 9: webContents.destroyed web1
+5/20/2025, 2:13:36 PM MST 10: window.closed win1
+5/21/2025, 8:50:22 AM MST 11: before-quit
+5/21/2025, 11:23:48 AM MST 0: 
+
+----------------------------------------------
+5/21/2025, 11:23:48 AM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+5/21/2025, 11:23:48 AM MST 2: ✅ webContents.created web1 ""
+5/21/2025, 11:23:48 AM MST 3: ✅ window.created win1 "discord"
+5/21/2025, 11:23:49 AM MST 4: ✅ webContents.did-finish-load web1
+5/21/2025, 11:23:49 AM MST 5: ✅ webContents.created web2 ""
+5/21/2025, 11:23:49 AM MST 6: ✅ window.created win2 "Discord"
+5/21/2025, 11:23:49 AM MST 7: ✅ webContents.did-finish-load web2
+5/21/2025, 11:23:50 AM MST 8: window.close win1
+5/21/2025, 11:23:50 AM MST 9: webContents.destroyed web1
+5/21/2025, 11:23:50 AM MST 10: window.closed win1
+5/25/2025, 10:13:03 AM MST 11: window.close win2
+5/25/2025, 1:58:56 PM MST 12: before-quit
+5/25/2025, 1:58:56 PM MST 13: window.close win2
+5/25/2025, 8:51:56 PM MST 0: 
+
+----------------------------------------------
+5/25/2025, 8:51:56 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+5/25/2025, 8:51:56 PM MST 2: ✅ webContents.created web1 ""
+5/25/2025, 8:51:56 PM MST 3: ✅ window.created win1 "discord"
+5/25/2025, 8:51:56 PM MST 4: ✅ webContents.did-finish-load web1
+5/25/2025, 8:51:56 PM MST 5: ✅ webContents.created web2 ""
+5/25/2025, 8:51:56 PM MST 6: ✅ window.created win2 "Discord"
+5/25/2025, 8:51:57 PM MST 7: window.close win1
+5/25/2025, 8:51:57 PM MST 8: webContents.destroyed web1
+5/25/2025, 8:51:57 PM MST 9: window.closed win1
+5/25/2025, 8:51:57 PM MST 10: ✅ webContents.did-finish-load web2
+5/27/2025, 12:08:31 AM MST 11: before-quit
+8/7/2025, 7:24:30 PM MST 0: 
+
+----------------------------------------------
+8/7/2025, 7:24:30 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/7/2025, 7:24:30 PM MST 2: ✅ webContents.created web1 ""
+8/7/2025, 7:24:30 PM MST 3: ✅ window.created win1 "discord"
+8/7/2025, 7:24:30 PM MST 4: ✅ webContents.did-finish-load web1
+8/7/2025, 7:24:32 PM MST 5: before-quit
+8/22/2025, 8:35:33 PM MST 0: 
+
+----------------------------------------------
+8/22/2025, 8:35:33 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/22/2025, 8:35:33 PM MST 2: ✅ webContents.created web1 ""
+8/22/2025, 8:35:33 PM MST 3: ✅ window.created win1 "discord"
+8/22/2025, 8:35:33 PM MST 4: ✅ webContents.did-finish-load web1
+8/22/2025, 8:35:38 PM MST 5: window.close win1
+8/22/2025, 8:36:59 PM MST 0: 
+
+----------------------------------------------
+8/22/2025, 8:36:59 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/22/2025, 8:36:59 PM MST 2: ✅ webContents.created web1 "Discord Updater"
+8/22/2025, 8:36:59 PM MST 3: ✅ window.created win1 "Discord Updater"
+8/22/2025, 8:36:59 PM MST 4: ✅ webContents.did-finish-load web1
+8/22/2025, 8:37:09 PM MST 5: window.close win1
+8/22/2025, 8:37:09 PM MST 6: webContents.destroyed web1
+8/24/2025, 6:41:46 PM MST 0: 
+
+----------------------------------------------
+8/24/2025, 6:41:46 PM MST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/teejarr/.config/discord/0.0.95/modules
+8/24/2025, 6:41:46 PM MST 2: ✅ webContents.created web1 ""
+8/24/2025, 6:41:47 PM MST 3: ✅ window.created win1 "discord"
+8/24/2025, 6:41:47 PM MST 4: ✅ webContents.did-finish-load web1
+8/24/2025, 6:41:49 PM MST 5: window.close win1
+8/24/2025, 6:41:49 PM MST 6: webContents.destroyed web1

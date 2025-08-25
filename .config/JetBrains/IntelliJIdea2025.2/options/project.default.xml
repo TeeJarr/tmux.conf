@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="1906" y="573" key="SettingsEditor" timestamp="1755916296469">
+          <screen x="0" y="0" width="3200" height="1800" />
+        </state>
+        <state x="1906" y="573" key="SettingsEditor/0.0.3200.1800/3840.0.2560.1440" timestamp="1755916296469" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,594 @@
+08:52:18.683: Using EGL/X11
+08:52:18.683: CPU Name: 12th Gen Intel(R) Core(TM) i7-12700K
+08:52:18.683: CPU Speed: 800.000MHz
+08:52:18.683: Physical Cores: 12, Logical Cores: 20
+08:52:18.683: Physical Memory: 64088MB Total, 61220MB Free
+08:52:18.683: Kernel Version: Linux 6.14.6-arch1-1
+08:52:18.683: Distribution: "Arch Linux" Unknown
+08:52:18.683: Desktop Environment: Hyprland (Hyprland)
+08:52:18.683: Session Type: wayland
+08:52:18.683: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.24.1
+08:52:18.684: Qt Version: 6.9.0 (runtime), 6.9.0 (compiled)
+08:52:18.684: Portable mode: false
+08:52:18.708: OBS 31.0.3-browser-3 (linux)
+08:52:18.708: ---------------------------------
+08:52:18.709: ---------------------------------
+08:52:18.709: audio settings reset:
+08:52:18.709: 	samples per sec: 48000
+08:52:18.709: 	speakers:        2
+08:52:18.709: 	max buffering:   960 milliseconds
+08:52:18.709: 	buffering type:  dynamically increasing
+08:52:18.711: ---------------------------------
+08:52:18.711: Initializing OpenGL...
+08:52:18.860: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+08:52:18.860: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.144, shading language 3.30 NVIDIA via Cg compiler
+08:52:18.881: ---------------------------------
+08:52:18.881: video settings reset:
+08:52:18.881: 	base resolution:   2560x1440
+08:52:18.881: 	output resolution: 1920x1080
+08:52:18.881: 	downscale filter:  Bicubic
+08:52:18.881: 	fps:               60/1
+08:52:18.881: 	format:            NV12
+08:52:18.881: 	YUV mode:          Rec. 709/Partial
+08:52:18.881: NV12 texture support enabled
+08:52:18.881: P010 texture support not available
+08:52:18.910: Audio monitoring device:
+08:52:18.910: 	name: Default
+08:52:18.910: 	id: default
+08:52:18.911: ---------------------------------
+08:52:18.934: No AJA devices found, skipping loading AJA UI plugin
+08:52:18.934: Failed to initialize module 'aja-output-ui.so'
+08:52:18.940: os_dlopen(/usr/lib/obs-plugins/aja.so->/usr/lib/obs-plugins/aja.so): /usr/lib/obs-plugins/aja.so: undefined symbol: _ZN18CNTV2DeviceScanner17GetDeviceInfoListEv
+08:52:18.940: 
+08:52:18.945: os_dlopen(/usr/lib/obs-plugins/aja.so->/usr/lib/obs-plugins/aja.so): /usr/lib/obs-plugins/aja.so: undefined symbol: _ZN18CNTV2DeviceScanner17GetDeviceInfoListEv
+08:52:18.945: 
+08:52:18.945: Module '/usr/lib/obs-plugins/aja.so' not loaded
+08:52:18.956: Failed to load 'en-US' text for module: 'decklink-captions.so'
+08:52:18.972: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+08:52:18.989: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08:52:18.989: Failed to initialize module 'decklink.so'
+08:52:19.291: [pipewire] Available capture sources:
+08:52:19.291: [pipewire]     - Monitor source
+08:52:19.291: [pipewire]     - Window source
+08:52:19.333: v4l2loopback not installed, virtual camera not registered
+08:52:19.363: [obs-browser]: Version 2.24.6
+08:52:19.363: [obs-browser]: CEF Version 127.0.6533.120 (runtime), 127.0.0-6533-fix-stutter.3039+g9d68db8+chromium-127.0.6533.120 (compiled)
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+08:52:19.434: FFmpeg VAAPI H264 encoding not supported
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+08:52:19.434: FFmpeg VAAPI AV1 encoding not supported
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+08:52:19.434: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+08:52:19.434: FFmpeg VAAPI HEVC encoding not supported
+08:52:20.020: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+08:52:20.046: Failed to load 'en-GB' text for module: 'obs-plugin-countdown.so'
+08:52:20.056: [obs-plugin-countdown] plugin loaded successfully (version 2.0.11)
+08:52:20.096: os_dlopen(/usr/lib/obs-plugins/obs-webrtc.so->/usr/lib/obs-plugins/obs-webrtc.so): libdatachannel.so.0.21: cannot open shared object file: No such file or directory
+08:52:20.096: 
+08:52:20.102: os_dlopen(/usr/lib/obs-plugins/obs-webrtc.so->/usr/lib/obs-plugins/obs-webrtc.so): libdatachannel.so.0.21: cannot open shared object file: No such file or directory
+08:52:20.102: 
+08:52:20.102: Module '/usr/lib/obs-plugins/obs-webrtc.so' not loaded
+08:52:20.128: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.6 | RPC Version: 1)
+08:52:20.128: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.9.0 | Qt version (run-time): 6.9.0
+08:52:20.128: [obs-websocket] [obs_module_load] Linked ASIO Version: 103402
+08:52:20.128: DEPRECATION: obs_frontend_get_global_config is deprecated. Read from global or user configuration explicitly instead.
+08:52:20.137: [obs-websocket] [obs_module_load] Module loaded.
+08:52:20.197: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+08:52:20.197: ---------------------------------
+08:52:20.197:   Loaded Modules:
+08:52:20.197:     vlc-video.so
+08:52:20.197:     text-freetype2.so
+08:52:20.197:     sndio.so
+08:52:20.197:     rtmp-services.so
+08:52:20.197:     obs-x264.so
+08:52:20.197:     obs-websocket.so
+08:52:20.197:     obs-vst.so
+08:52:20.197:     obs-transitions.so
+08:52:20.197:     obs-qsv11.so
+08:52:20.197:     obs-plugin-countdown.so
+08:52:20.197:     obs-outputs.so
+08:52:20.197:     obs-nvenc.so
+08:52:20.197:     obs-libfdk.so
+08:52:20.197:     obs-filters.so
+08:52:20.197:     obs-ffmpeg.so
+08:52:20.197:     obs-browser.so
+08:52:20.197:     linux-v4l2.so
+08:52:20.197:     linux-pulseaudio.so
+08:52:20.197:     linux-pipewire.so
+08:52:20.197:     linux-jack.so
+08:52:20.197:     linux-capture.so
+08:52:20.197:     linux-alsa.so
+08:52:20.197:     image-source.so
+08:52:20.197:     frontend-tools.so
+08:52:20.197:     decklink-output-ui.so
+08:52:20.197:     decklink-captions.so
+08:52:20.197: ---------------------------------
+08:52:20.197: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+08:52:20.197: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+08:52:20.197: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 172.16.3.198
+08:52:20.197: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+08:52:20.198: ---------------------------------
+08:52:20.198: Available Encoders:
+08:52:20.198:   Video Encoders:
+08:52:20.198: 	- ffmpeg_svt_av1 (SVT-AV1)
+08:52:20.198: 	- ffmpeg_aom_av1 (AOM AV1)
+08:52:20.198: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+08:52:20.198: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+08:52:20.198: 	- obs_x264 (x264)
+08:52:20.198:   Audio Encoders:
+08:52:20.198: 	- ffmpeg_aac (FFmpeg AAC)
+08:52:20.198: 	- ffmpeg_opus (FFmpeg Opus)
+08:52:20.198: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+08:52:20.198: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+08:52:20.198: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+08:52:20.198: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+08:52:20.198: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+08:52:20.198: 	- libfdk_aac (libfdk AAC)
+08:52:20.198: ==== Startup complete ===============================================
+08:52:20.202: signal_handler_connect: signal 'file_changed' not found
+08:52:20.246: All scene data cleared
+08:52:20.246: ------------------------------------------------
+08:52:20.256: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:52:20.256: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:52:20.257: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+08:52:20.257: [Loaded global audio device]: 'Desktop Audio'
+08:52:20.258: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:52:20.258: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+08:52:20.258: pulse-input: Started recording from 'alsa_input.usb-Elgato_Game_Capture_HD60_S__0006E8A0C0000-03.analog-stereo' (default)
+08:52:20.273: pulse-am: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:52:20.274: pulse-am: Audio format: s32le, 48000 Hz, 2 channels
+08:52:20.275: pulse-am: Started Monitoring in 'alsa_output.pci-0000_00_1f.3.analog-stereo'
+08:52:20.275: [Loaded global audio device]: 'Mic/Aux'
+08:52:20.275:     - monitoring: monitor and output
+08:52:20.275: PipeWire initialized
+08:52:20.275: v4l2-input: Start capture from /dev/video2
+08:52:20.275: v4l2-input: Unable to open device
+08:52:20.275: v4l2-input: Initialization failed, errno: No such file or directory
+08:52:20.276: PipeWire initialized
+08:52:20.296: Switched to scene 'Nuzlocking'
+08:52:20.296: ------------------------------------------------
+08:52:20.296: Loaded scenes:
+08:52:20.296: - scene 'Nuzlocking':
+08:52:20.296:     - source: 'Background For Text' (color_source_v3)
+08:52:20.296:     - source: 'Deaths' (text_ft2_source_v2)
+08:52:20.296:     - source: 'MGBA' (pipewire-screen-capture-source)
+08:52:20.296:     - source: 'Chat' (browser_source)
+08:52:20.296:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+08:52:20.296:     - source: 'ruler' (image_source)
+08:52:20.296: - scene 'Starting Soon':
+08:52:20.296:     - source: 'Background For Text' (color_source_v3)
+08:52:20.296:     - source: 'Starting Soon Text' (text_ft2_source_v2)
+08:52:20.296: - scene 'ScreenCap':
+08:52:20.296:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+08:52:20.296:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+08:52:20.296:     - source: 'BRB' (text_ft2_source_v2)
+08:52:20.296: ------------------------------------------------
+08:52:20.394: [pipewire] Screencast session created
+08:52:20.394: [pipewire] Screencast session created
+08:52:21.013: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+08:52:21.013: 
+08:52:21.102: [obs-browser: 'Chat'] Error: zaraz is loaded twice (https://streamelements.com/overlay/66ce70168dc1b70496aa640e/ZIfVPwhrslsOeVR3gfzqNiPci6Ef_c2NhzLVubpEUVAVmFAu:4)
+08:53:01.760: [pipewire] Asking for monitor and window
+08:53:02.948: [pipewire] Asking for monitor and window
+08:53:02.958: [pipewire] source selected, setting up screencast
+08:53:02.958: [pipewire] source selected, setting up screencast
+08:53:02.963: [pipewire] Server version: 1.4.2
+08:53:02.963: [pipewire] Library version: 1.4.2
+08:53:02.963: [pipewire] Header version: 1.4.2
+08:53:02.963: [pipewire] Created stream 0x59a169847e70
+08:53:02.963: [pipewire] Stream 0x59a169847e70 state: "connecting" (error: none)
+08:53:02.963: [pipewire] Playing stream 0x59a169847e70
+08:53:02.963: [pipewire] Stream 0x59a169847e70 state: "paused" (error: none)
+08:53:02.964: [pipewire] Server version: 1.4.2
+08:53:02.964: [pipewire] Library version: 1.4.2
+08:53:02.964: [pipewire] Header version: 1.4.2
+08:53:02.964: [pipewire] Created stream 0x59a169c60d40
+08:53:02.964: [pipewire] Stream 0x59a169c60d40 state: "connecting" (error: none)
+08:53:02.964: [pipewire] Playing stream 0x59a169c60d40
+08:53:02.964: [pipewire] Stream 0x59a169c60d40 state: "paused" (error: none)
+08:53:02.981: [pipewire] Negotiated format:
+08:53:02.981: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:02.981: [pipewire]     Modifier: 0x0
+08:53:02.981: [pipewire]     Size: 2556x1396
+08:53:02.981: [pipewire]     Framerate: 0/1
+08:53:02.981: [pipewire] Negotiated format:
+08:53:02.981: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:02.981: [pipewire]     Modifier: 0x300000000e08014
+08:53:02.981: [pipewire]     Size: 2556x1396
+08:53:02.981: [pipewire]     Framerate: 0/1
+08:53:02.995: [pipewire] Stream 0x59a169847e70 state: "streaming" (error: none)
+08:53:02.995: [pipewire] Negotiated format:
+08:53:02.995: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:02.995: [pipewire]     Modifier: 0x0
+08:53:02.995: [pipewire]     Size: 2560x1440
+08:53:02.995: [pipewire]     Framerate: 0/1
+08:53:02.995: [pipewire] Negotiated format:
+08:53:02.995: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:02.995: [pipewire]     Modifier: 0x300000000e08014
+08:53:02.995: [pipewire]     Size: 2560x1440
+08:53:02.995: [pipewire]     Framerate: 0/1
+08:53:03.007: [pipewire] Stream 0x59a169c60d40 state: "streaming" (error: none)
+08:53:09.930: [pipewire] Stream 0x59a169c60d40 state: "paused" (error: none)
+08:53:09.931: [pipewire] Stream 0x59a169c60d40 state: "unconnected" (error: none)
+08:53:09.962: PipeWire initialized
+08:53:09.963: [pipewire] Screencast session created
+08:53:13.931: [pipewire] Asking for monitor and window
+08:53:13.940: [pipewire] source selected, setting up screencast
+08:53:13.943: [pipewire] Server version: 1.4.2
+08:53:13.943: [pipewire] Library version: 1.4.2
+08:53:13.943: [pipewire] Header version: 1.4.2
+08:53:13.943: [pipewire] Created stream 0x59a169c44ae0
+08:53:13.943: [pipewire] Stream 0x59a169c44ae0 state: "connecting" (error: none)
+08:53:13.943: [pipewire] Playing stream 0x59a169c44ae0
+08:53:13.943: [pipewire] Stream 0x59a169c44ae0 state: "paused" (error: none)
+08:53:13.950: [pipewire] Negotiated format:
+08:53:13.950: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:13.950: [pipewire]     Modifier: 0x0
+08:53:13.950: [pipewire]     Size: 1015x695
+08:53:13.950: [pipewire]     Framerate: 0/1
+08:53:13.950: [pipewire] Negotiated format:
+08:53:13.950: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:13.950: [pipewire]     Modifier: 0x300000000e08014
+08:53:13.950: [pipewire]     Size: 1015x695
+08:53:13.950: [pipewire]     Framerate: 0/1
+08:53:13.950: [pipewire] Stream 0x59a169c44ae0 state: "streaming" (error: none)
+08:53:15.822: User switched to scene 'ScreenCap'
+08:53:16.148: [pipewire] Stream 0x59a169c44ae0 state: "paused" (error: none)
+08:53:17.140: v4l2-input: /dev/video1 seems to not support video capture
+08:53:17.140: v4l2-input: Found device 'Game Capture HD60 S+: Game Capt' at /dev/video0
+08:53:18.731: v4l2-input: Start capture from /dev/video2
+08:53:18.731: v4l2-input: Unable to open device
+08:53:18.731: v4l2-input: Initialization failed, errno: No such file or directory
+08:53:20.328: [pipewire] Stream 0x59a169847e70 state: "paused" (error: none)
+08:53:20.328: [pipewire] Stream 0x59a169847e70 state: "unconnected" (error: none)
+08:53:20.353: PipeWire initialized
+08:53:20.354: [pipewire] Screencast session created
+08:53:23.124: [pipewire] Asking for monitor and window
+08:53:23.133: [pipewire] source selected, setting up screencast
+08:53:23.136: [pipewire] Server version: 1.4.2
+08:53:23.136: [pipewire] Library version: 1.4.2
+08:53:23.136: [pipewire] Header version: 1.4.2
+08:53:23.136: [pipewire] Created stream 0x59a16a090120
+08:53:23.136: [pipewire] Stream 0x59a16a090120 state: "connecting" (error: none)
+08:53:23.136: [pipewire] Playing stream 0x59a16a090120
+08:53:23.136: [pipewire] Stream 0x59a16a090120 state: "paused" (error: none)
+08:53:23.143: [pipewire] Negotiated format:
+08:53:23.143: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:23.143: [pipewire]     Modifier: 0x0
+08:53:23.143: [pipewire]     Size: 2560x1440
+08:53:23.143: [pipewire]     Framerate: 0/1
+08:53:23.144: [pipewire] Negotiated format:
+08:53:23.144: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+08:53:23.144: [pipewire]     Modifier: 0x300000000e08014
+08:53:23.144: [pipewire]     Size: 2560x1440
+08:53:23.144: [pipewire]     Framerate: 0/1
+08:53:23.144: [pipewire] Stream 0x59a16a090120 state: "streaming" (error: none)
+08:53:30.648: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:53:30.648: pulse-input: Got 2802 packets with 3362400 frames
+08:53:30.649: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:53:30.649: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+08:53:30.649: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+08:53:30.649: pulse-input: Started recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:54:16.419: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+08:54:16.419: pulse-input: Got 1829 packets with 2194800 frames
+08:54:16.420: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:54:16.420: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+08:54:16.420: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+08:54:22.780: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:54:22.780: pulse-input: Got 253 packets with 303600 frames
+08:54:22.780: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:54:22.780: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+08:54:22.780: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+08:54:22.780: pulse-input: Started recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:56:36.785: Switched to Preview/Program mode
+08:56:36.785: ------------------------------------------------
+08:56:38.319: Switched to scene 'ScreenCap'
+08:56:38.363: Switched to regular Preview mode
+08:56:38.363: ------------------------------------------------
+08:58:08.070: User added source 'JACK Input Client' (jack_output_capture) to scene 'ScreenCap'
+08:58:14.527: User Removed source 'JACK Input Client' (jack_output_capture) from scene 'ScreenCap'
+08:58:20.581: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:58:20.581: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+08:58:20.581: pulse-input: Started recording from 'alsa_input.usb-Elgato_Game_Capture_HD60_S__0006E8A0C0000-03.analog-stereo' (default)
+08:58:20.582: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'ScreenCap'
+08:58:22.309: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:58:22.309: pulse-input: Got 63 packets with 75600 frames
+08:58:22.309: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:58:22.310: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+08:58:22.310: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+08:58:22.310: pulse-input: Started recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:58:23.701: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Audio Input Capture (PulseAudio))
+08:58:23.701: 
+08:58:31.472: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'ScreenCap'
+08:58:31.483: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+08:58:31.483: pulse-input: Got 363 packets with 435600 frames
+08:59:20.777: Get on org.freedesktop.portal.Settings returned an invalid reply
+08:59:20.777: Get on org.freedesktop.portal.Settings returned an invalid reply
+08:59:41.532: pulse-input: Stopped recording from 'default'
+08:59:41.532: pulse-input: Got 12747 packets with 15296400 frames
+08:59:41.532: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+08:59:41.532: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+08:59:41.532: pulse-input: Started recording from 'alsa_input.usb-Elgato_Game_Capture_HD60_S__0006E8A0C0000-03.analog-stereo' (default)
+09:00:22.757: ------------------------------------------------
+09:00:22.757: Removed profile 'Untitled' (Untitled)
+09:00:22.757: ------------------------------------------------
+09:00:22.757: Renamed profile 'Untitled' to 'Stream' (Stream)
+09:00:22.757: ------------------------------------------------
+09:00:34.942: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+09:00:34.942: pulse-input: Got 19778 packets with 23733600 frames
+09:00:34.942: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Game_Capture_HD60_S__0006E8A0C0000-03.analog-stereo'
+09:00:34.942: pulse-input: Got 2130 packets with 2556000 frames
+09:00:34.942: pulse-am: Stopped Monitoring in 'alsa_output.pci-0000_00_1f.3.analog-stereo'
+09:00:34.942: pulse-am: Got 19657 packets with 23588400 frames
+09:00:34.942: [pipewire] Stream 0x59a169c44ae0 state: "unconnected" (error: none)
+09:00:34.993: [pipewire] Stream 0x59a16a090120 state: "paused" (error: none)
+09:00:34.993: [pipewire] Stream 0x59a16a090120 state: "unconnected" (error: none)
+09:00:35.051: All scene data cleared
+09:00:35.051: ------------------------------------------------
+09:00:35.054: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+09:00:35.054: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+09:00:35.054: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+09:00:35.054: [Loaded global audio device]: 'Desktop Audio'
+09:00:35.054: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+09:00:35.054: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+09:00:35.054: pulse-input: Started recording from 'alsa_input.usb-Elgato_Game_Capture_HD60_S__0006E8A0C0000-03.analog-stereo' (default)
+09:00:35.061: pulse-am: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+09:00:35.062: pulse-am: Audio format: s32le, 48000 Hz, 2 channels
+09:00:35.062: pulse-am: Started Monitoring in 'alsa_output.pci-0000_00_1f.3.analog-stereo'
+09:00:35.062: [Loaded global audio device]: 'Mic/Aux'
+09:00:35.062:     - monitoring: monitor and output
+09:00:35.062: PipeWire initialized
+09:00:35.062: v4l2-input: Start capture from /dev/video2
+09:00:35.062: v4l2-input: Unable to open device
+09:00:35.062: v4l2-input: Initialization failed, errno: No such file or directory
+09:00:35.063: PipeWire initialized
+09:00:35.068: Switched to scene 'ScreenCap'
+09:00:35.068: ------------------------------------------------
+09:00:35.068: Loaded scenes:
+09:00:35.068: - scene 'Nuzlocking':
+09:00:35.068:     - source: 'Background For Text' (color_source_v3)
+09:00:35.068:     - source: 'Deaths' (text_ft2_source_v2)
+09:00:35.068:     - source: 'MGBA' (pipewire-screen-capture-source)
+09:00:35.068:     - source: 'Chat' (browser_source)
+09:00:35.068:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+09:00:35.068:     - source: 'ruler' (image_source)
+09:00:35.068: - scene 'Starting Soon':
+09:00:35.068:     - source: 'Background For Text' (color_source_v3)
+09:00:35.068:     - source: 'Starting Soon Text' (text_ft2_source_v2)
+09:00:35.068: - scene 'ScreenCap':
+09:00:35.068:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+09:00:35.068:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+09:00:35.068:     - source: 'BRB' (text_ft2_source_v2)
+09:00:35.068: ------------------------------------------------
+09:00:35.072: Removed scene collection 'Untitled' (Untitled.json)
+09:00:35.072: ------------------------------------------------
+09:00:35.072: Renamed scene collection 'Untitled' to 'Nuzlocking' (Nuzlocking.json)
+09:00:35.072: ------------------------------------------------
+09:00:35.077: [pipewire] Screencast session created
+09:00:35.077: [pipewire] Screencast session created
+09:00:35.084: [pipewire] Asking for monitor and window
+09:00:35.092: [pipewire] source selected, setting up screencast
+09:00:35.092: [pipewire] Asking for monitor and window
+09:00:35.097: [pipewire] source selected, setting up screencast
+09:00:35.099: [pipewire] Server version: 1.4.2
+09:00:35.099: [pipewire] Library version: 1.4.2
+09:00:35.099: [pipewire] Header version: 1.4.2
+09:00:35.100: [pipewire] Created stream 0x59a16a0e9800
+09:00:35.100: [pipewire] Stream 0x59a16a0e9800 state: "connecting" (error: none)
+09:00:35.100: [pipewire] Playing stream 0x59a16a0e9800
+09:00:35.100: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:00:35.101: [pipewire] Server version: 1.4.2
+09:00:35.101: [pipewire] Library version: 1.4.2
+09:00:35.101: [pipewire] Header version: 1.4.2
+09:00:35.101: [pipewire] Created stream 0x59a16a9943e0
+09:00:35.101: [pipewire] Stream 0x59a16a9943e0 state: "connecting" (error: none)
+09:00:35.101: [pipewire] Playing stream 0x59a16a9943e0
+09:00:35.101: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:00:35.110: [pipewire] Negotiated format:
+09:00:35.110: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.110: [pipewire]     Modifier: 0x0
+09:00:35.110: [pipewire]     Size: 2560x1440
+09:00:35.110: [pipewire]     Framerate: 0/1
+09:00:35.111: [pipewire] Negotiated format:
+09:00:35.111: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.111: [pipewire]     Modifier: 0x300000000e08014
+09:00:35.111: [pipewire]     Size: 2560x1440
+09:00:35.111: [pipewire]     Framerate: 0/1
+09:00:35.111: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:00:35.112: [pipewire] Negotiated format:
+09:00:35.112: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.112: [pipewire]     Modifier: 0x0
+09:00:35.112: [pipewire]     Size: 1015x695
+09:00:35.112: [pipewire]     Framerate: 0/1
+09:00:35.112: [pipewire] Negotiated format:
+09:00:35.112: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.112: [pipewire]     Modifier: 0x300000000e08014
+09:00:35.112: [pipewire]     Size: 1015x695
+09:00:35.112: [pipewire]     Framerate: 0/1
+09:00:35.113: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:00:35.188: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:00:35.188: [pipewire] Negotiated format:
+09:00:35.188: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.188: [pipewire]     Modifier: 0x300000000e08014
+09:00:35.188: [pipewire]     Size: 2560x1440
+09:00:35.188: [pipewire]     Framerate: 0/1
+09:00:35.189: [pipewire] Negotiated format:
+09:00:35.189: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.189: [pipewire]     Modifier: 0x300000000e08014
+09:00:35.189: [pipewire]     Size: 2560x1440
+09:00:35.189: [pipewire]     Framerate: 0/1
+09:00:35.189: [pipewire] Negotiated format:
+09:00:35.189: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:00:35.189: [pipewire]     Modifier: 0x300000000e08014
+09:00:35.189: [pipewire]     Size: 2560x1440
+09:00:35.189: [pipewire]     Framerate: 0/1
+09:00:35.189: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:00:35.262: [obs-browser: 'Chat'] Error: zaraz is loaded twice (https://streamelements.com/overlay/66ce70168dc1b70496aa640e/ZIfVPwhrslsOeVR3gfzqNiPci6Ef_c2NhzLVubpEUVAVmFAu:4)
+09:00:44.229: User switched to scene 'Nuzlocking'
+09:00:44.548: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:04:33.635: pulse-input: Stopped recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+09:04:33.635: pulse-input: Got 9541 packets with 11449200 frames
+09:04:33.636: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.2) 15.0.0'
+09:04:33.636: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+09:04:33.636: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+09:04:33.636: pulse-input: Started recording from 'alsa_input.usb-Elgato_Systems_Elgato_Wave_XLR_DS37K1A00528-00.mono-fallback'
+09:04:51.617: pulse-am: Stopped Monitoring in 'alsa_output.pci-0000_00_1f.3.analog-stereo'
+09:04:51.617: pulse-am: Got 10217 packets with 12260400 frames
+09:04:51.618: User changed audio monitoring for source 'Mic/Aux' to: none
+09:05:05.953: NV12 texture support enabled
+09:05:05.953: P010 texture support not available
+09:05:05.953: [obs-nvenc] GPU scaling enabled
+09:05:06.194: [obs-nvenc: 'advanced_video_stream'] settings:
+09:05:06.194: 	codec:        H264
+09:05:06.194: 	rate_control: CQVBR
+09:05:06.194: 	max_bitrate:  6000
+09:05:06.194: 	cq:           20
+09:05:06.194: 	keyint:       250
+09:05:06.194: 	preset:       p2
+09:05:06.194: 	tuning:       hq
+09:05:06.194: 	multipass:    qres
+09:05:06.194: 	profile:      high
+09:05:06.194: 	width:        1536
+09:05:06.194: 	height:       864
+09:05:06.194: 	b-frames:     2
+09:05:06.194: 	b-ref-mode:   0
+09:05:06.194: 	lookahead:    true (8 frames)
+09:05:06.194: 	aq:           true
+09:05:06.194: 
+09:05:06.222: ---------------------------------
+09:05:06.223: [FFmpeg aac encoder: 'adv_stream_audio'] bitrate: 160, channels: 2, channel_layout: stereo, track: 6
+09:05:06.223: 
+09:05:06.224: ---------------------------------
+09:05:06.224: [FFmpeg aac encoder: 'adv_archive_audio'] bitrate: 160, channels: 2, channel_layout: stereo, track: 5
+09:05:06.224: 
+09:05:06.225: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://lax.contribute.live-video.net/app...
+09:05:06.934: [rtmp stream: 'adv_stream'] Connection to rtmp://lax.contribute.live-video.net/app (52.223.247.190) successful
+09:05:06.963: ==== Streaming Start ===============================================
+09:05:58.949: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:05:58.949: [pipewire] Negotiated format:
+09:05:58.949: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:58.949: [pipewire]     Modifier: 0x300000000e08014
+09:05:58.949: [pipewire]     Size: 1015x695
+09:05:58.949: [pipewire]     Framerate: 0/1
+09:05:58.949: [pipewire] Negotiated format:
+09:05:58.949: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:58.949: [pipewire]     Modifier: 0x300000000e08014
+09:05:58.949: [pipewire]     Size: 1015x695
+09:05:58.949: [pipewire]     Framerate: 0/1
+09:05:58.950: [pipewire] Negotiated format:
+09:05:58.950: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:58.950: [pipewire]     Modifier: 0x300000000e08014
+09:05:58.950: [pipewire]     Size: 1015x695
+09:05:58.950: [pipewire]     Framerate: 0/1
+09:05:58.950: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:05:59.073: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:05:59.073: [pipewire] Negotiated format:
+09:05:59.073: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:59.073: [pipewire]     Modifier: 0x300000000e08014
+09:05:59.073: [pipewire]     Size: 1015x695
+09:05:59.073: [pipewire]     Framerate: 0/1
+09:05:59.073: [pipewire] Negotiated format:
+09:05:59.073: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:59.073: [pipewire]     Modifier: 0x300000000e08014
+09:05:59.073: [pipewire]     Size: 1015x695
+09:05:59.073: [pipewire]     Framerate: 0/1
+09:05:59.073: [pipewire] Negotiated format:
+09:05:59.073: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:05:59.073: [pipewire]     Modifier: 0x300000000e08014
+09:05:59.073: [pipewire]     Size: 1015x695
+09:05:59.073: [pipewire]     Framerate: 0/1
+09:05:59.074: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:06:06.181: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:54458
+09:06:06.186: User switched to scene 'ScreenCap'
+09:06:06.186: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:54458` has disconnected with code `1006` and reason: End of File
+09:06:06.199: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:06:06.515: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:07:44.080: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:44164
+09:07:44.082: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:07:44.087: User switched to scene 'Nuzlocking'
+09:07:44.087: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:44164` has disconnected with code `1006` and reason: End of File
+09:07:44.398: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:09:37.762: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:35532
+09:09:37.765: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:09:37.767: User switched to scene 'ScreenCap'
+09:09:37.767: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:35532` has disconnected with code `1006` and reason: End of File
+09:09:38.081: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:17:48.561: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:40840
+09:17:48.565: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:17:48.568: User switched to scene 'Nuzlocking'
+09:17:48.568: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:40840` has disconnected with code `1006` and reason: End of File
+09:17:48.898: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:20:24.825: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:49348
+09:20:24.829: User switched to scene 'ScreenCap'
+09:20:24.829: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:49348` has disconnected with code `1006` and reason: End of File
+09:20:24.832: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:20:25.165: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:24:06.678: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:39350
+09:24:06.682: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:24:06.685: User switched to scene 'Nuzlocking'
+09:24:06.685: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:39350` has disconnected with code `1006` and reason: End of File
+09:24:06.998: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:24:49.562: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:52710
+09:24:49.565: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:24:49.567: User switched to scene 'ScreenCap'
+09:24:49.567: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:52710` has disconnected with code `1006` and reason: End of File
+09:24:49.881: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:31:10.934: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:55074
+09:31:10.941: User switched to scene 'Nuzlocking'
+09:31:10.941: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:55074` has disconnected with code `1006` and reason: End of File
+09:31:10.949: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:31:11.265: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+09:31:11.786: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:55088
+09:31:11.790: User switched to scene 'ScreenCap'
+09:31:11.790: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:55088` has disconnected with code `1006` and reason: End of File
+09:31:11.798: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+09:31:12.115: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+09:36:19.421: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:53270
+09:36:19.427: User switched to scene 'Nuzlocking'
+09:36:19.428: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:53270` has disconnected with code `1006` and reason: End of File
+09:36:19.432: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+09:36:19.748: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+10:00:36.501: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:49014
+10:00:36.505: User switched to scene 'ScreenCap'
+10:00:36.505: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:49014` has disconnected with code `1006` and reason: End of File
+10:00:36.515: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+10:00:36.831: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+10:10:51.969: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:35864
+10:10:51.975: User switched to scene 'Nuzlocking'
+10:10:51.976: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:35864` has disconnected with code `1006` and reason: End of File
+10:10:51.982: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+10:10:52.298: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+10:44:14.936: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:58610
+10:44:14.940: User switched to scene 'ScreenCap'
+10:44:14.940: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:58610` has disconnected with code `1006` and reason: End of File
+10:44:14.948: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+10:44:15.265: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+10:59:26.580: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:34604
+10:59:26.582: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+10:59:26.588: User switched to scene 'Nuzlocking'
+10:59:26.589: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:34604` has disconnected with code `1006` and reason: End of File
+10:59:26.898: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+11:06:17.625: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:46108
+11:06:17.634: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+11:06:17.644: User switched to scene 'ScreenCap'
+11:06:17.644: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:46108` has disconnected with code `1006` and reason: End of File
+11:06:17.948: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+11:13:57.700: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:34602
+11:13:57.707: User switched to scene 'Nuzlocking'
+11:13:57.707: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:34602` has disconnected with code `1006` and reason: End of File
+11:13:57.715: [pipewire] Stream 0x59a16a9943e0 state: "streaming" (error: none)
+11:13:58.031: [pipewire] Stream 0x59a16a0e9800 state: "paused" (error: none)
+11:21:48.249: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:38200
+11:21:48.254: User switched to scene 'ScreenCap'
+11:21:48.254: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:38200` has disconnected with code `1006` and reason: End of File
+11:21:48.265: [pipewire] Stream 0x59a16a0e9800 state: "streaming" (error: none)
+11:21:48.581: [pipewire] Stream 0x59a16a9943e0 state: "paused" (error: none)
+11:23:38.348: [rtmp stream: 'adv_stream'] User stopped the stream
+11:23:38.348: Output 'adv_stream': stopping
+11:23:38.348: Output 'adv_stream': Total frames output: 498632
+11:23:38.348: Output 'adv_stream': Total drawn frames: 498665 (498728 attempted)
+11:23:38.348: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 63 (0.0%)
+11:23:38.348: Video stopped, number of skipped frames due to encoding lag: 63/498682 (0.0%)
+11:23:38.349: ==== Streaming Stop ================================================

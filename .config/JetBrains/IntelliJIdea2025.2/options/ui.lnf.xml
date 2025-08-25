@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="SHOW_MAIN_MENU_MODE" value="SEPARATE_TOOLBAR" />
+    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="89" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="89" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>

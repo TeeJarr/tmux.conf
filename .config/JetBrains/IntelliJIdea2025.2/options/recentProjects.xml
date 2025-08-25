@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/hotspotAppBackend">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="31id9ApGpjrWF6qNHtxvCS1n8HE">
+              <option name="activationTimestamp" value="1756098955663" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.23892.409" />
+              <option name="buildTimestamp" value="1754024820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1756010672841" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotspotAppApi">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hotspotAppApi – home.component.html" opened="true" projectWorkspaceId="31fbciXY6xHF3CW9YwAdsuXjBKo">
+              <option name="activationTimestamp" value="1756099847489" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-252.23892.409" />
+              <option name="buildTimestamp" value="1754024820000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1927" y="59" width="1901" height="1033" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1756010793028" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/hotspotAppApi" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
